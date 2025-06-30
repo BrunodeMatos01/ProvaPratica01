@@ -1,6 +1,6 @@
 package org.example.DAO;
 
-import org.example.Utils.Conexao; // IMPORT DA SUA CLASSE DE CONEXÃO
+import org.example.Utils.Conexao;
 import org.example.Models.Funcionario;
 import java.sql.*;
 import java.util.ArrayList;
