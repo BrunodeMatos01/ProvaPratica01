@@ -58,6 +58,6 @@ Este projeto Java implementa um sistema simples de gerenciamento de pessoas, fun
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 CONFIGURE SEU BANCO DE DADOS
-private static final String URL = "jdbc:mysql://localhost:3306/nome_do_banco";
+private static final String URL = "jdbc:mysql://localhost:3306/empresa";
 private static final String USUARIO = "root";
 private static final String SENHA = "";
